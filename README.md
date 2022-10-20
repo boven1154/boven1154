@@ -11,8 +11,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<ahref="https://www.facebook.com/punnamat.ngamdi.7/?
-viewas=100000686899395&show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012064812143" height="30" width="40" /></a>
+<ahref="https://www.facebook.com/punnamat.ngamdi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012064812143" height="30" width="40" /></a>
 <a href="https://www.instagram.com/moncocs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/uncle_wanchai/?hl=en" height="30" width="40" /></a>
 <a href="https://discord.gg/QmTEeNEZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ᑌᑎᑕᒪE ᖇOGEᖇ#0894" height="30" width="40" /></a>
 </p>
